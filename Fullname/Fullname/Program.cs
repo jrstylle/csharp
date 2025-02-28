@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace Fullname;
+﻿namespace Fullname;
 
 class Program
 {
